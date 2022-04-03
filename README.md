@@ -5,4 +5,4 @@ A small JavaScript application where the user picks 3 items from the list of opt
 - Added a function to calculate the choices selected.
 - Created a checkbox to add "bags" which cost an extra $5.00 to the total.
 
-Demo:
+### Demo: https://dillon-porter.github.io/order-calculator/
